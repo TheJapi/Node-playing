@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "title": "Pollitos en fuga",
+        "director": "Papito",
+        "year": "2004",
+        "rating": "8.5"
+    },
+
+    {
+        "id": "2",
+        "title": "Vacas vaqueras",
+        "director": "Americo",
+        "year": "2006",
+        "rating": "9.9"
+    }
+]
